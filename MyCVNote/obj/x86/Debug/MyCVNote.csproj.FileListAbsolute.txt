@@ -1,0 +1,6 @@
+/home/mateusz/Projects/MyCVNote/MyCVNote/bin/Debug/MyCVNote.exe
+/home/mateusz/Projects/MyCVNote/MyCVNote/bin/Debug/MyCVNote.pdb
+/home/mateusz/Projects/MyCVNote/MyCVNote/obj/x86/Debug/MyCVNote.csprojAssemblyReference.cache
+/home/mateusz/Projects/MyCVNote/MyCVNote/obj/x86/Debug/MyCVNote.csproj.CoreCompileInputs.cache
+/home/mateusz/Projects/MyCVNote/MyCVNote/obj/x86/Debug/MyCVNote.exe
+/home/mateusz/Projects/MyCVNote/MyCVNote/obj/x86/Debug/MyCVNote.pdb

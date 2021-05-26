@@ -1,0 +1,3 @@
+/home/mateusz/Projects/MyCVNote/MyCVNote/bin/Release/MyCVNote.exe
+/home/mateusz/Projects/MyCVNote/MyCVNote/obj/x86/Release/MyCVNote.csproj.CoreCompileInputs.cache
+/home/mateusz/Projects/MyCVNote/MyCVNote/obj/x86/Release/MyCVNote.exe
